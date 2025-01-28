@@ -1,65 +1,21 @@
-## Hi there 👋
-
-<!--
-**devoduro/devoduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-💫 About Me:
-I’m John Oduro, a dedicated Web Developer and IT Specialist with a decade of experience building and managing dynamic web solutions. I am passionate about crafting efficient, user-friendly applications that bridge the gap between technology and everyday challenges.
-
-🚀 My Focus
-I specialize in managing web infrastructure, implementing innovative IT solutions, and ensuring seamless digital experiences. My mission is to deliver excellence and inspire innovation in the tech space.
-
-🌟 Skills & Expertise
-Web Development: HTML, CSS, JavaScript, PHP
-Database Management: MySQL, PostgreSQL
-IT Solutions: Network setup, cloud computing, and system administration
-Collaboration: Team leadership, project management
-🎯 Achievements
-Successfully led the digital transformation initiatives in many businesses, enhancing efficiency and online presence.
-Developed and maintained web applications that meet industry standards and client satisfaction.
-Worked collaboratively with teams to deliver impactful IT projects on time and within budget.
-🌐 Beyond Work
-When I’m not coding or managing IT systems, I enjoy exploring new technologies, mentoring aspiring developers, and contributing to open-source projects that make a difference.
-
-💬 Let’s Collaborate
-If you’re looking for a reliable tech partner or want to collaborate on exciting projects, feel free to reach out or connect with me through my repositories.
-
-🌐 Socials:
-LinkedIn
-
-💻 Tech Stack:
-JavaScript C# Dart HTML5 Java TypeScript Python CSS3 Kotlin PHP C++ AWS Linode DigitalOcean Firebase Ionic Flutter Vue.js WordPress TailwindCSS React Native React Next JS NodeJS jQuery Code-Igniter Angular Firebase MicrosoftSQLServer Postgres MySQL Adobe After Effects Adobe Photoshop Adobe Illustrator Adobe Premiere Pro Adobe Lightroom Laravel Joomla Figma
-
-📊 GitHub Stats:
+# 💫 About Me:
+I'm John Oduro, a dedicated Web Developer and IT Specialist with a decade of experience building and managing dynamic web solutions. I am passionate about crafting efficient, user-friendly applications that bridge the gap between technology and everyday challenges.<br><br>🚀 My Focus<br>I specialize in managing web infrastructure, implementing innovative IT solutions, and ensuring seamless digital experiences. My mission is to deliver excellence and inspire innovation in the tech space.<br><br>🌟 Skills & Expertise<br>Web Development: HTML, CSS, JavaScript, PHP<br>Database Management: MySQL, PostgreSQL<br>IT Solutions: Network setup, cloud computing, and system administration<br>Collaboration: Team leadership, project management<br>🎯 Achievements<br>Successfully led the digital transformation initiatives in many businesses, enhancing efficiency and online presence.<br>Developed and maintained web applications that meet industry standards and client satisfaction.<br>Worked collaboratively with teams to deliver impactful IT projects on time and within budget.<br>🌐 Beyond Work<br>When I'm not coding or managing IT systems, I enjoy exploring new technologies, mentoring aspiring developers, and contributing to open-source projects that make a difference.<br><br>💬 Let’s Collaborate<br>If you’re looking for a reliable tech partner or want to collaborate on exciting projects, feel free to reach out or connect with me through my repositories.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mr-john-oduro/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devoduro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devoduro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devoduro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devoduro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=devoduro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔝 Top Contributed Repo
-
-
-
-
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
